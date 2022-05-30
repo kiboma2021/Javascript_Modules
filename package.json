@@ -1,0 +1,20 @@
+{
+  "name": "javascript_modules",
+  "version": "1.0.0",
+  "description": "As our application grows bigger, we want to split it into multiple files, so called “modules”.  A module may contain a class or a library of functions for a specific purpose.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiboma2021/Javascript_Modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiboma2021/Javascript_Modules/issues"
+  },
+  "homepage": "https://github.com/kiboma2021/Javascript_Modules#readme"
+}
