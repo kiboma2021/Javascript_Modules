@@ -1,5 +1,7 @@
-import User, { printAge, printName } from '/user.js'
+import U, { printAge as PA, printName } from './user.js'
 
-const user = new User('Johnstone', 11)
+const user = new U ('Johnstone', 11)
 
 printName(user);
+console.log(user);
+PA(user);
